@@ -87,12 +87,8 @@ class Fragment1 : Fragment() {
                         println("Request Successful!!")
                         println(json)
                         val listdata = ArrayList<String>();
-                        val keys = json.keys()
-                        while (keys.hasNext()) {
-                            val key = keys.next()
-                            val value = json.optString(key)
-                            listdata.add(value);
-                        }
+                        listdata.add(json["name"] as String);
+                        listdata.add(json["summonerLevel"].toString());
                         adapter.setData(listdata);
                         detailsJSON = json
                         this@Fragment1.fetchComplete()
