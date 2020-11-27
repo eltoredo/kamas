@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My 2 kamas application</string>
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="data">Data</string>
+    <string name="nickname">Welcome, %1$s!</string>
+    <string name="percent">I can give you 10% of your kamas, think about it!</string>
+    <string name="audiocode">(It does not work so do not bother… But I am selling audio codes 10.000k/u, no noob, no test, pm me.)</string>
+    <string name="djblop">Yeah, it is ugly, right? Those are my LoL account info. Anyways, 3 spots full wisdom blops dungeon, pm me lvl.</string>
+</resources>

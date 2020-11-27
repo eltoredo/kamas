@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mon application à 2 kamas</string>
+    <string name="home">Accueil</string>
+    <string name="camera">Caméra</string>
+    <string name="data">Données</string>
+    <string name="nickname">Bienvenue, %1$s !</string>
+    <string name="percent">Je peux te donner 10% de tes kamas, réfléchis-y !</string>
+    <string name="audiocode">(Ça ne fonctionne pas alors ne te prend pas la tête… Mais je vends codes audio 10.000k/u, no noob, no test avant, mp moi.)</string>
+    <string name="djblop">Ouais, ça fait moche, hein ? Ce sont les infos de mon compte LoL. Bref, 3 places full sasa dj blop, mp moi lvl.</string>
+</resources>
